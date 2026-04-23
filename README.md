@@ -53,6 +53,7 @@ Expense_Tracker_App_Project/
 │
 ├── expenses.db
 ├── app.py
+├── simulate_esp32.py (for simulation purpose if someone doesn't possess any real hardware)
 ├── requirements.txt
 └── README.md
 ```
