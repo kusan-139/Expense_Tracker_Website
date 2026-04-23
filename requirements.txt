@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+openpyxl
+pyserial
+streamlit-autorefresh
+flask
+requests
